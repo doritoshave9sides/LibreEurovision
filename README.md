@@ -96,4 +96,11 @@ Use it, modify it, share it. You cannot make it proprietary.
 
 ---
 
+## ☕ Support
+
+If you enjoy Libre Eurovision, you can support development on Ko-fi:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/michael_jay)
+
+---
 *United by music. Freed from tracking.*
